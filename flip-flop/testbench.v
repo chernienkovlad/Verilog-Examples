@@ -16,10 +16,10 @@ initial begin
 end
 
 initial begin
-    #1 in = ~in;
-    #21.3 in = ~in;
-    #2.5 in = ~in;
-    #4.7 in = ~in;
+    #1 in = 1'b1;
+    #21.3 in = 1'b0;
+    #2.5 in = 1'b1;
+    #4.7 in = 1'b0;
 end
 
 endmodule
