@@ -1,0 +1,257 @@
+$date
+	Fri Apr 19 22:28:19 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	100ps
+$end
+$scope module testbench $end
+$var wire 1 ! out $end
+$var wire 1 " nout $end
+$var reg 1 # clk $end
+$var reg 1 $ in $end
+$scope module ff $end
+$var wire 1 # clk $end
+$var wire 1 $ d $end
+$var wire 1 ! q $end
+$var wire 1 " nq $end
+$var wire 1 % a $end
+$scope module d1 $end
+$var wire 1 & a $end
+$var wire 1 ' b $end
+$var wire 1 ( c $end
+$var wire 1 $ d $end
+$var wire 1 ) nq $end
+$var wire 1 % q $end
+$upscope $end
+$scope module d2 $end
+$var wire 1 * a $end
+$var wire 1 + b $end
+$var wire 1 # c $end
+$var wire 1 % d $end
+$var wire 1 " nq $end
+$var wire 1 ! q $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1+
+1*
+1)
+1(
+0'
+1&
+0%
+0$
+0#
+x"
+x!
+$end
+#10
+0!
+1"
+1'
+0+
+0(
+1$
+1#
+#20
+0)
+1%
+0&
+1+
+1(
+0#
+#30
+0"
+1!
+1&
+0*
+0(
+1#
+#40
+0&
+1*
+1(
+0#
+#50
+1&
+0*
+0(
+1#
+#60
+0&
+1*
+1(
+0#
+#70
+1&
+0*
+0(
+1#
+#80
+0&
+1*
+1(
+0#
+#90
+1&
+0*
+0(
+1#
+#100
+0&
+1*
+1(
+0#
+#110
+1&
+0*
+0(
+1#
+#120
+0&
+1*
+1(
+0#
+#130
+1&
+0*
+0(
+1#
+#140
+0&
+1*
+1(
+0#
+#150
+1&
+0*
+0(
+1#
+#160
+0&
+1*
+1(
+0#
+#170
+1&
+0*
+0(
+1#
+#180
+0&
+1*
+1(
+0#
+#190
+1&
+0*
+0(
+1#
+#200
+0&
+1*
+1(
+0#
+#210
+1&
+0*
+0(
+1#
+#220
+0&
+1*
+1(
+0#
+#223
+0%
+1)
+0'
+1&
+0$
+#230
+0!
+1"
+1'
+0+
+0(
+1#
+#240
+0'
+1+
+1(
+0#
+#248
+0)
+1%
+1'
+0&
+1$
+#250
+0"
+1!
+1&
+0*
+0(
+1#
+#260
+0&
+1*
+1(
+0#
+#270
+1&
+0*
+0(
+1#
+#280
+0&
+1*
+1(
+0#
+#290
+1&
+0*
+0(
+1#
+#295
+0$
+#300
+0%
+1)
+0'
+1*
+1(
+0#
+#310
+0!
+1"
+1'
+0+
+0(
+1#
+#320
+0'
+1+
+1(
+0#
+#330
+1'
+0+
+0(
+1#
+#340
+0'
+1+
+1(
+0#
+#350
+1'
+0+
+0(
+1#
